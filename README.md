@@ -1,4 +1,4 @@
-# 20+ Web Projects With Vanilla JavaScript
+# 20+ Web Projects With Pintya JavaScript
 
 Copyrights To Rahul Satav 2020
 
