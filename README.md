@@ -1,6 +1,6 @@
 # 20+ Web Projects With Pintya JavaScript
 
-Copyrights To Rahul Satav 2020
+ © Copyrights To Rahul Satav 2020
 
 
 
